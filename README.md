@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Attendance Using Face Recognition
 
 A comprehensive attendance management system powered by face recognition technology. This web application provides an automated, secure, and efficient way to track student attendance using facial recognition algorithms.
@@ -248,7 +249,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Authors
 
-- **Santosh** - *Initial development* - [YourGitHubUsername](https://github.com/your-username)
+- **Saraswati** - *Initial development* - [YourGitHubUsername](https://github.com/your-username)
 
 ## 🙏 Acknowledgments
 
